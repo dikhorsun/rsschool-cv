@@ -28,3 +28,6 @@ Belarusian National Technical University
 
 ## English
 А2+
+
+## Projects
+GitHub: [dikhorsun](https://github.com/dikhorsun/)
